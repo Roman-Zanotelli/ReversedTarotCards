@@ -1,0 +1,16 @@
+{
+	"id": "reversed_tarot_cards",
+	"name": "Reversed Tarot Cards",
+	"author": ["Someone Stupid"],
+	"description": "R e v e r s e d T a r o t C a r d s",
+	"prefix": "rvsdtrtcrds",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "0.0.1",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+	]
+}
